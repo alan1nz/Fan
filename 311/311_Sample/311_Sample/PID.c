@@ -25,7 +25,7 @@ void pid(int error){
 	OCR1B = pid_output ;
 
 	
-hello ladies and gentlemen
+hello ladies and gentlemen hmm
 
 }
 
